@@ -84,11 +84,25 @@ https://codepen.io/cmelchor/full/bGpygZo
     text-transform:capitalize;
 
     28. How do I add a 1px border around my div that is dotted and black?
+    div{
+        border: dotted 1px black;
+    }
+
     29. How do I select everything on the page? 
+   *{}
+
     30. How do I write a comment in CSS?
+    /* comment */
+
     31. How do I find out what file I am in, when I am using the command line? 
+    pwd command, stands for print working directory
+
     32. Using the command line - how do I see a list of files/folders in my current folder?
+    type ls
+
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    rmdir <filename>, because it deletes without a confirmation
+
     34. Why should I use version control? 
     35. How often should I commit to github?
     36. What is the command we would use to push our repo up to github? 
