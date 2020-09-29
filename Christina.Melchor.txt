@@ -104,9 +104,16 @@ https://codepen.io/cmelchor/full/bGpygZo
     rmdir <filename>, because it deletes without a confirmation
 
     34. Why should I use version control? 
+    because multiple people may be working on things together and this allows people to collaborate and contribute.
+
     35. How often should I commit to github?
+    everytime you change something, to save it
+
     36. What is the command we would use to push our repo up to github? 
+    git push -u origin christina-melchor (or other name)
+
     37. Walk me through Lambda's git flow. 
+    Fork, Clone, create a branch "firstname-lastname", create code, save code, git add, git commit, git push to github, create pull request
 
 Stretch Questions
 
